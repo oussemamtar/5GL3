@@ -39,7 +39,7 @@
 				<configuration>
 					<filename>${project.artifactId}.jar</filename>
 					<hostname>localhost</hostname>
-					<port>19990</port>
+					<port>9002</port>
 				</configuration>
 				<executions>
 					<execution>
